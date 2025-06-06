@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harithreenath Bellamkonda (Hari)</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | Embedded Systems Innovator | IoT & AIML Enthusiast</h3>
+<h3 align="center">🚀 Passionate Frontend Developer | Embedded Systems and Robotics Innovator | IoT & AIML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Crafting+Tech+with+Code+%26+Circuitry;Always+Learning+🚀;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
@@ -16,11 +16,12 @@ Interests:
   - Frontend Development (JavaScript, React, HTML, CSS)
   - IoT, Embedded Systems (ESP32, ESP8266, Arduino)
   - AI, Machine Learning and Smart Communication Systems
-  - Drone Firmware
+  - Drone Firmware and Robotics hardware
 Currently Learning:
   - Advanced Java and Python
   - AIML
-  - React Ecosystem
+  - React 
+  - Robotics
 ```
 
 ---
