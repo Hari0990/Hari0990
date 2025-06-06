@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-Name: Bellamkonda HarithreEnath
+Name: Harithreenath Bellamkonda
 Location: India 🇮🇳
 Interests:
   - Frontend Development (JavaScript, React, HTML, CSS)
